@@ -20,7 +20,7 @@ let box = {
   alignItems: 'center',
   backgroundColor: 'rgb(120, 152, 152)',
   height: "8rem",
-  width: "30rem",
+  width: "33rem",
   borderRadius: '5px',
   padding: '1rem',
   boxShadow: '2px 2px 2px 1px rgba(0, 0, 0, 0.2)',
