@@ -1,5 +1,5 @@
 # GreetingInReact
-#First React project 
+**#First React project **
 In which i have learnt how to create a react app using npx create-react-app my-app, 
 about jsx, how to use inline css along.
 In this project i have creat a greeting message according to loacl time using date object.
